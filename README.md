@@ -1,17 +1,19 @@
-## In this repository you can find several links that lead you to my data extraction, manipulation, analysis and prediction projects such as: Insights, Classification, Regression, Time Series, Clustering and Reinforcement Learning.
-## Nesse repositorio você pode encontrar varios links que levam você aos meus projetos de extração, manipulação, analise e previsão de dados como por exemplo: Insights, Classification, Regression, Time Series, Clustering and Reinforcement Learning.
-#### See below
-#### Veja-os abaixo:
+In this repository you can find several links that lead you to my data extraction, manipulation, analysis and prediction projects such as: Insights, Classification, Regression, Time Series, Clustering and Reinforcement Learning.
 
-### 1.  **Insights**
-    1. - <a href="https://github.com/wilianuhlmann/house_sales">House sales</a>
-    2. - Covid19
-### 2. **Classification**
+Nesse repositorio você pode encontrar varios links que levam você aos meus projetos de extração, manipulação, analise e previsão de dados como por exemplo: Insights, Classification, Regression, Time Series, Clustering and Reinforcement Learning.
+See below:
+Veja-os abaixo:
 
-### 3. **Regression**
+###  **Insights**
+   #####  1 -  <a href="https://github.com/wilianuhlmann/house_sales">    House sales</a>
+   #####  2 -  <a href="https://github.com/wilianuhlmann/house_sales">    Exemple 2</a>
+   #####  3 -  <a href="https://github.com/wilianuhlmann/house_sales">    Exemple 3</a>
+### **Classification**
 
-### 4. **Time** **series**
+### **Regression**
 
-### 5. **Clustering**
+### **Time** **series**
 
-### 6. **Reinforcement** **Learning**
+### **Clustering**
+
+### **Reinforcement** **Learning**
