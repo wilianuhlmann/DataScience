@@ -4,6 +4,7 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 <p>See below:</p>
 <p>Veja-os abaixo:</p>
 
+
 ###  **Exploring data**
    #####  1 -  <a href="https://github.com/wilianuhlmann/house_sales">    House sales</a>
    
@@ -20,3 +21,8 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 ### **Clustering**
 
 ### **Reinforcement** **Learning**
+
+
+PS:
+**<p>Estarei preenchendo 1 vez na semana durante os proximos 3 meses(inicio em XX/XX/XX) sobre cada um desses temas com projetos praticos reais com dados publicos</p>** 
+**<p>I will be filling in once a week for the next 3 months (starting on XX / XX / XX) about each of these topics with real hands-on projects with public data</p>**
