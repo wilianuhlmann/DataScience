@@ -9,9 +9,9 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
    #####  1 -  <a href="https://github.com/wilianuhlmann/house_sales">    House sales</a>
    
 ###  **Insights**
-   #####  1 -  <a href="">    Exemple</a>
-   #####  2 -  <a href="">    Exemple 2</a>
-   #####  3 -  <a href="">    Exemple 3</a>
+   #####  1 -      Exemple
+   #####  2 -      Exemple 2
+   #####  3 -  Exemple 3
 ### **Supervised Learning**
    #####  1 -  <a href="https://github.com/wilianuhlmann/sales_prediction">    Sales predction</a>
 ### **Unsupervised Learning**
