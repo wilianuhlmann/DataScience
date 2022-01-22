@@ -16,7 +16,7 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
    #####  1 -  <a href="https://github.com/wilianuhlmann/sales_prediction">    Sales predction</a>
 ### **Unsupervised Learning**
    #####  1 -  <a href="https://github.com/wilianuhlmann/fidelity_program">    Fidelity program</a>
-   #####  1 -  <a href="https://github.com/wilianuhlmann/bank_marketing_strategy">    Bank marketing strategy</a>
+   #####  2 -  <a href="https://github.com/wilianuhlmann/bank_marketing_strategy">    Bank marketing strategy</a>
 
 
 
