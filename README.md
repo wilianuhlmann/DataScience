@@ -17,6 +17,7 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 ### **Unsupervised Learning**
    #####  1 -  <a href="https://github.com/wilianuhlmann/fidelity_program">    Fidelity program</a>
    #####  2 -  <a href="https://github.com/wilianuhlmann/bank_marketing_strategy">    Bank marketing strategy</a>
+   #####  3 -  <a href="https://github.com/wilianuhlmann/credit_risk_score">    Credit risk score</a>
 
 
 
