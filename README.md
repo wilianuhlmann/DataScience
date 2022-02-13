@@ -10,7 +10,7 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 
 
 ###  **Exploring data**
-   #####  1 -  <a href="https://github.com/wilianuhlmann/house_sales">    House sales</a>
+   ######  1 -  <a href="https://github.com/wilianuhlmann/house_sales">    House sales</a>
 
 
 **==============================================================================**
@@ -18,9 +18,9 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 
 
 ###  **Insights**
-   #####  1 -      Exemple
-   #####  2 -      Exemple 2
-   #####  3 -      Exemple 3
+   ######  1 -      Exemple
+   ######  2 -      Exemple 2
+   ######  3 -      Exemple 3
    
 
 **==============================================================================**
@@ -29,10 +29,16 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 
 
 ### **Supervised Learning**
-   #####  1 -  <a href="https://github.com/wilianuhlmann/sales_prediction">    Sales predction</a>
-   #####  2 -  <a href="https://github.com/wilianuhlmann/credit_risk_score">    Credit risk score</a>
-   #####  3 -  <a href="https://github.com/wilianuhlmann/health_insurance_cross_sell">     Health insurance cross sell</a>
-   #####  4 -  <a href="https://github.com/wilianuhlmann/predict_first_booking-">     Predict first booking</a>
+#### **Regression:**
+   ######  1 -  <a href="https://github.com/wilianuhlmann/sales_prediction">    Sales predction</a>
+   
+   
+   #### **Classification:**
+   
+   
+   ######  2 -  <a href="https://github.com/wilianuhlmann/credit_risk_score">    Credit risk score</a>
+   ######  3 -  <a href="https://github.com/wilianuhlmann/health_insurance_cross_sell">     Health insurance cross sell</a>
+   ######  4 -  <a href="https://github.com/wilianuhlmann/predict_first_booking-">     Predict first booking</a>
 
 **==============================================================================**
 
@@ -40,8 +46,11 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 
 
 ### **Unsupervised Learning**
-   #####  1 -  <a href="https://github.com/wilianuhlmann/fidelity_program">    Fidelity program</a>
-   #####  2 -  <a href="https://github.com/wilianuhlmann/bank_marketing_strategy">    Bank marketing strategy</a>
+#### **Clustering:**
+
+
+   ######  1 -  <a href="https://github.com/wilianuhlmann/fidelity_program">    Fidelity program</a>
+   ######  2 -  <a href="https://github.com/wilianuhlmann/bank_marketing_strategy">    Bank marketing strategy</a>
 
 
 **==============================================================================**
