@@ -31,8 +31,8 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 ### **Supervised Learning**
    #####  1 -  <a href="https://github.com/wilianuhlmann/sales_prediction">    Sales predction</a>
    #####  2 -  <a href="https://github.com/wilianuhlmann/credit_risk_score">    Credit risk score</a>
-   #####  2 -  <a href="https://github.com/wilianuhlmann/health_insurance_cross_sell">     Health insurance cross sell</a>
-   #####  2 -  <a href="https://github.com/wilianuhlmann/predict_first_booking-">     Predict first booking</a>
+   #####  3 -  <a href="https://github.com/wilianuhlmann/health_insurance_cross_sell">     Health insurance cross sell</a>
+   #####  4 -  <a href="https://github.com/wilianuhlmann/predict_first_booking-">     Predict first booking</a>
 
 **==============================================================================**
 
