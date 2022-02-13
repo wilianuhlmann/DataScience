@@ -1,5 +1,9 @@
 In this repository you can find several links that lead you to my data extraction, manipulation, analysis, insights and prediction projects using several techniques with the following types of learning algorithms: Supervised Learning, Unsupervised Learning and Reinforcement learning.
 
+
+**==============================================================================**
+
+
 Nesse repositorio você pode encontrar varios links que levam você aos meus projetos de extração, manipulação, analise, insights e predição de dados utilizando diversas tecnica com os seguintes tipos de algoritimos para aprendizado: Supervised Learning, Unsupervised Learning e Reinforcement learning.
 <p>See below:</p>
 <p>Veja-os abaixo:</p>
