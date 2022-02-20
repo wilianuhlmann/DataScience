@@ -31,6 +31,10 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 ### **Supervised Learning**
 #### **Regression:**
    ######  1 -  <a href="https://github.com/wilianuhlmann/sales_prediction">    Sales predction</a>
+   ######  2 -  <a href="https://github.com/wilianuhlmann/predict_profitability_dr">    Price prediction</a>
+
+   
+   
    
    
    #### **Classification:**
