@@ -25,6 +25,12 @@ Nesse repositorio você pode encontrar varios links que levam você aos meus pro
 
 **==============================================================================**
 
+### **A/B Testing**
+
+######  1 -  <a href="https://github.com/wilianuhlmann/AB_test"> A/B Testing </a>
+
+**==============================================================================**
+
 
 
 
